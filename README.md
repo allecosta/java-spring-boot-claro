@@ -21,7 +21,7 @@
 
 ## Cronograma
 
-- Introdução ao ambiente Java e projetos colaborativos
+- Introdução ao Ambiente Java e Projetos Colaborativos
     - Aula de boas vindas
     - Introdução à plataforma 
     - Ambiente de Desenvolvimento
@@ -30,7 +30,7 @@
     - Contribuindo em um projeto Open Source no Github
     - Live de lançamento - Coding the Future Claro
  
-- Sintaxe básica com Java
+- Sintaxe Básica com Java
     - Aprendendo a sintaxe básica
     - **Projeto:** Simulando uma conta bancária através do console
     - Introdução e estruturas condicionais 
@@ -68,3 +68,12 @@
     - **Projeto:** Design Patterns, dos clássicos (GoF) ao Spring Framework
     - **Projeto:** Publicando API REST na cloud usando Spring Boot 3, Java 17 e Railway
     - **Projeto:** Calculando o consumo e desconto de telefonia
+
+<br>
+
+## Links 
+
+- [Contribuindo em um Projeto Open Source no GitHub](https://github.com/digitalinnovationone/dio-lab-open-source)
+
+- [DIO Lab Open Source](https://github.com/falvojr/dio-lab-open-source)
+
