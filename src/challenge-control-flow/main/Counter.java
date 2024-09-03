@@ -30,7 +30,7 @@ public class Counter {
 
         int counting = parameterTwo - parameterOne;
 
-        for (int i = 1; i <= (counting); i++) {
+        for (int i = 1; i <= counting; i++) {
             System.out.println("Imprimindo o número " + i );
         }
     }
