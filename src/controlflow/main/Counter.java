@@ -20,6 +20,8 @@ public class Counter {
         } catch(ParameterInvalidException e) {
             System.out.println("OPS! O segundo parâmetro deve ser maior que o primeiro.");
         }
+
+        scan.close();
     }
 
     static void count(int parameterOne, int parameterTwo) throws ParameterInvalidException {
