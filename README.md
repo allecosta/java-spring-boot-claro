@@ -19,7 +19,7 @@
     <span> Claro - Java com Spring Boot</span>
 </h1>
 
-## Cronograma
+## Cronograma:
 
 - Introdução ao Ambiente Java e Projetos Colaborativos
     - Aula de boas vindas
@@ -71,9 +71,13 @@
 
 <br>
 
-## Links 
+## Referências: 
 
-- [Contribuindo em um Projeto Open Source no GitHub](https://github.com/digitalinnovationone/dio-lab-open-source)
+- [https://github.com/digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 
-- [DIO Lab Open Source](https://github.com/falvojr/dio-lab-open-source)
+- [https://github.com/falvojr/dio-lab-open-source](https://github.com/falvojr/dio-lab-open-source)
+
+- [https://github.com/cami-la/collections-java-api-2023](https://github.com/cami-la/collections-java-api-2023)
+
+- [https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
 
