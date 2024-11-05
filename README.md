@@ -81,3 +81,5 @@
 
 - [https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
 
+- [https://github.com/pamelaborges/dio-bd-relacional/tree/main](https://github.com/pamelaborges/dio-bd-relacional/tree/main)
+- [https://github.com/digitalinnovationone/dio-springboot/tree/main](https://github.com/digitalinnovationone/dio-springboot/tree/main)
